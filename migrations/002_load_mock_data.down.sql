@@ -1,0 +1,1 @@
+TRUNCATE mock_data;
